@@ -14,10 +14,12 @@ The goal of this project is to analyze the career aspirations, work preferences,
 - Data cleaning and transformation using Excel Power Query to handle multi-label survey responses.  
 - Exploratory data analysis with PivotTables and charts to summarize survey findings.  
 - Development of interactive dashboards in Excel and Power BI to visualize insights effectively.  
-- Use of slicers and filters for dynamic data exploration by gender, country, and year.  
+- Use of slicers and filters for dynamic data exploration.
+- Used SQL queries to extract, filter, and analyze data to answer specific business questions efficiently.  
 - Application of business acumen to translate data findings into meaningful insights for stakeholders.
 
 ## 4. Tools Used  
-- Microsoft Excel 
+- Microsoft Excel
+- SQL to solve business questions 
 - Microsoft Power BI for interactive dashboards  
 - Survey data collected from Google Forms
